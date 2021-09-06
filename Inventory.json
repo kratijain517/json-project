@@ -1,0 +1,23 @@
+{
+  "1": {
+    "name": "tea",
+    "price": 60,
+    "quantity": 60,
+    "brand": "tata",
+    "expiry": "20-12-2022"
+  },
+  "2": {
+    "name": "soanpapdi",
+    "price": 10,
+    "quantity": 3,
+    "brand": "null",
+    "expiry": "01-12-2022"
+  },
+  "3": {
+    "name": "Biscuit",
+    "brand": "Britania",
+    "expiry": "12-12-2021",
+    "price": "10",
+    "quantity": "15"
+  }
+}
